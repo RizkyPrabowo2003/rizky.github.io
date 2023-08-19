@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+  width: 300px;
+  height: 110px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -150px; /* (300/2) */
+  margin-top: -240px; /* (240/2) */
+}
+h1 {
+  color: brown;
+  text-align: center;
+}
+img {
+  align-content: center;
+}
+
+h5 {
+  color: blue;
+  text-align: center;
+  font-size: 25px;
+}
